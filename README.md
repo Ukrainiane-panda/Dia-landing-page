@@ -1,6 +1,6 @@
 # The Dia Project
 
-[Demo Link](https://ukrainiane-panda.github.io/Dia-landing-page/) 🌟
+[DEMO LINK](https://ukrainiane-panda.github.io/Dia-landing-page/) 🌟
 
 🌐 Welcome to my Dia landing page, where I bring together a strategic approach and creative ideas. The web world offers endless opportunities for development, strategies, and creativity, and that's exactly what you'll find on my Dia landing page.
 
