@@ -1,8 +1,8 @@
-# The Dia Project
+# The Strategic Agency Project
 
 [DEMO LINK](https://ukrainiane-panda.github.io/Dia-landing-page/) 🌟
 
-🌐 Welcome to my Dia landing page, where I combine a strategic approach with creative ideas. The web world offers endless opportunities for development, strategies, and creativity, and that's exactly what you'll find on my Dia landing page.
+🌐 Welcome to my Strategic Agency landing page, where I combine a strategic approach with creative ideas. The web world offers endless opportunities for development, strategies, and creativity, and that's exactly what you'll find on my Strategic Agency landing page.
 
 ### Clear Structure 🧩:
 - HTML5: Built using HTML5, the latest version of the HyperText Markup Language.
